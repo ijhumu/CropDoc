@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/icon1"
+    android:title="Home"
+    android:icon="@drawable/ic_outline_home_24"/>
+
+    <item android:id="@+id/icon2"
+        android:title="Disease"
+        android:icon="@drawable/_541903_200"/>
+
+
+    <item android:id="@+id/icon4"
+        android:title="Treatment"
+        android:icon="@drawable/ic_baseline_4i__2_"/>
+
+    <item android:id="@+id/icon5"
+        android:title="About"
+        android:icon="@drawable/faq__2_"/>
+
+</menu>

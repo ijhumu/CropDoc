@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Crop Doc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_1_text">1</string>
+    <string name="fragment_2_text">2</string>
+    <string name="fragment_5_text">5</string>
+    <string name="fragment_3_text">3</string>
+    <string name="fragment_4_text">4</string>
+    <string name="bottom_sheet_btn1">Camera</string>
+    <string name="bottom_sheet_btn2">Gallary</string>
+    <string name="about_app">About Crop Doc</string>
+
+    <string-array name="crop_name">
+        <item>"Rice"</item>
+        <item>"Potato"</item>
+        <item>"c"</item>
+        <item>"d"</item>
+    </string-array>
+
+    <string name="about_crop_doc">
+        Welcome to Crop Doc, your trusted companion in agriculture. Utilizing advanced Convolutional Neural Network (CNN) technology, our app accurately recognizes four major crops: corn, potato, rice, and wheat. Crop Doc provides crop health monitoring,disease detection, fertilization and medicine guidance. It simplifies crop management for farmers and gardening enthusiasts, empowering you to make informed decisions and maximize your harvests. So, use Crop Doc and experience the future of precision farming on your Android device.
+    </string>
+
+</resources>
